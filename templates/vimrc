@@ -105,8 +105,8 @@ let mapleader = ","
 nnoremap  <leader>n :set nonumber!<CR>
 
 " Toggle display of invisible characters (like TextMate):
-set listchars=tab:▸\ ,eol:¬
-nnoremap <leader>l :set list!<CR>
+"set listchars=tab:▸\ ,eol:¬
+"nnoremap <leader>l :set list!<CR>
 
 " Toggle paste mode for no autoindenting:
 nnoremap <leader>p :set invpaste<CR>
