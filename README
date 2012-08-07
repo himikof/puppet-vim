@@ -1,0 +1,5 @@
+ Provides the vim editor.
+
+@author Nikita Ofitserov <himikof@gmail.com>
+@version 1.0
+@package vim
