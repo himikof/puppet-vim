@@ -1,5 +1,4 @@
 import 'stdlib'
-import 'os_gentoo'
 
 # Class vim
 #
